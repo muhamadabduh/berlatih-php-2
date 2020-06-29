@@ -22,4 +22,5 @@ $sungokong->yell(); // "Auooo"
 
 
 echo "halo";
+echo "halo 2";
 ?>
