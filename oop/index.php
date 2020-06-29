@@ -18,6 +18,8 @@ echo "<br>";
 echo $kodok->name;
 echo "<br>";
 $sungokong = new Ape("kera sakti");
-$sungokong->yell() // "Auooo"
+$sungokong->yell(); // "Auooo"
 
+
+echo "halo";
 ?>
